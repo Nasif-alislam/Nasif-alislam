@@ -8,12 +8,11 @@ I am a CSE student focused on building practical skills in programming, networki
 - 🌱 I’m currently learning **Advanced Machine Learning**
 - 📫 How to reach me: [nasifalislam8@gmail.com](mailto:nasifalislam8@gmail.com)
 
-## Skills
-🛠️ Technical Skills
-- Programming Languages: C, C++, R, Dart, Java and Python.
-- AI & Machine Learning: Experience with classification models, Data Mining concepts, and NLP using Bangla-BERT.
-- Cybersecurity & Networking: Researching PenGym and working with network protocols. 
-- Development: Building mobile applications with Flutter & Firebase and web interfaces with React.js.
+### 🛠️ Skills & Experience
+
+* **AI & Machine Learning:** Experience with classification models, Data Mining concepts (regression/clustering), and NLP using Bangla-BERT.
+* **Cybersecurity & Networking:** Researching **PenGym** and working with network protocols.
+* **Development:** Building mobile applications with **Flutter & Firebase** and web interfaces with **React.js**.
 
 ### Programming Languages
 - ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
