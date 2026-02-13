@@ -1,29 +1,27 @@
-# 🚀 Hi there, I'm Nasif! 👋
+🚀 Nasif Al Islam
+CSE Student
 
-![NASA Banner](https://via.placeholder.com/800x200.png?text=Exploring+the+Universe+of+Code)
-
-## About Me
-
-I'm a passionate software developer on a mission to explore the vast universe of technology. With a keen interest in web development and machine learning, I'm always ready to launch into new projects and challenges.
+I am a CSE student focused on building practical skills in programming, networking, and research. I'm currently working on projects involving automated security testing and machine learning.
 
 - 🌱 I’m currently learning **Advanced Machine Learning**
-- 👯 I’m looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **JavaScript, Python, and DevOps**
 - 📫 How to reach me: [nasifalislam8@gmail.com](mailto:nasifalislam8@gmail.com)
-- ⚡ Fun fact: I love socializing and make new friends!
 
 ## Skills
+🛠️ Technical Skills
+- Programming Languages: C, C++, R, Dart, Java and Python.
+- AI & Machine Learning: Experience with classification models, Data Mining concepts, and NLP using Bangla-BERT.
+- Cybersecurity & Networking: Researching PenGym and working with network protocols. 
+- Development: Building mobile applications with Flutter & Firebase and web interfaces with React.js.
 
 ### Programming Languages
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+- ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+- ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+- ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+- ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+- ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 - ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-- ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
 ### Web Development
-
-
-### DevOps & Cloud
-
 
 ## Projects
 
