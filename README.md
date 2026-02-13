@@ -1,5 +1,7 @@
-🚀 Nasif Al Islam
-CSE Student
+<p align="center">
+  <h1 align="center"><strong>🚀 Nasif Al Islam</strong></h1>
+  <p align="center">CSE Student</p>
+</p>
 
 I am a CSE student focused on building practical skills in programming, networking, and research. I'm currently working on projects involving automated security testing and machine learning.
 
