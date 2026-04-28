@@ -3,9 +3,10 @@
   <p align="center">CSE Student</p>
 </p>
 
-I am a CSE student focused on building practical skills in programming, networking, and research. I'm currently working on projects involving automated security testing and machine learning.
+<p align="center">
+Not an expert, not a beginner just somewhere in between trying to make stuff that doesn’t completely break. There are thousands like me out there, but what makes me different? When I’m sad or angry, I go nonverbal.
+</p>
 
-- 🌱 I’m currently learning **Advanced Machine Learning**
 - 📫 How to reach me: [nasifalislam8@gmail.com](mailto:nasifalislam8@gmail.com)
 
 ### 🛠️ Skills & Experience
